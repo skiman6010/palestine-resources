@@ -1,5 +1,7 @@
 @import url('https://themes.googleusercontent.com/fonts/css?kit=OPeqXG-QxW3ZD8BtmPikfA');
-
+body {
+	text-align: center;
+	}
 .lst-kix_xwocr6ggltjz-6 > li {
   counter-increment: lst-ctn-kix_xwocr6ggltjz-6;
 }
